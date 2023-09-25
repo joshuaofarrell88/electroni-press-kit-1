@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
   background: linear-gradient(#156159, #040724);
   font-family: 'Ysabeau SC', sans-serif;
-  color: #d4cec7;
+  color: #ccc;
   align-items: center;
   justify-content: center;
 }
@@ -12,10 +12,13 @@ body {
   overflow: visible;
   display: flex;
   flex-direction: column;
+  color: #ccc;
+  font-family: 'Ysabeau SC', sans-serif;
 };
 .jumbo-index {
   display: block;
   align-items: center;
+  color: #ccc;
 }
 .jumbo-index h1 {
   color: #EE9322;
@@ -23,6 +26,8 @@ body {
 .shade {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
   height: 15rem;
+  color: #ccc;
+  font-family: 'Ysabeau SC', sans-serif;
 }
 .foot-css {
   text-decoration: none;
@@ -33,13 +38,13 @@ body {
   margin-right: auto;
 }
 .my-pic {
-  margin: 6rem auto 1rem;
+  margin: 3rem auto 1rem;
   border-radius: 50%;
-  height: 10rem;
-  width: 10rem;
   margin-left: auto;
   margin-right: auto;
+  height: 14rem;
   border: 6px solid #FFA500;
+ 
 }
 .container.pseudio {
   margin: 4rem auto 1rem;
@@ -47,7 +52,7 @@ body {
   width: auto;
 }
 .calendar-container { 
-  background: #156159
+  background: #156159;
   border-radius: 10px;
   padding-left: 0;
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
