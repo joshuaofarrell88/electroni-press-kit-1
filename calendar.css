@@ -48,8 +48,7 @@ body {
 }
 .container.pseudio {
   margin: 4rem auto 1rem;
-  max-width: calc(100% - 4rem);
-  width: auto;
+ 
 }
 .calendar-container { 
   background: #156159;
@@ -86,7 +85,7 @@ header .calendar-navigation span {
   padding-left: 25px;
 }
 header .calendar-navigation span:hover {
-  background: #771111;
+  background: #910808;
 }
 header .calendar-current-date {
   font-weight: 500;
@@ -175,13 +174,13 @@ ul {
 }
 .navbar a {
   color:#FFA500;
-  font-family: 'Ysabeau SC', sans-serif;
   text-decoration: none;
   padding: 0 4%;
   font-size: 1.7rem;
   z-index: 999; 
 }
 .navbar {
+  
   background-color: #176b63;
   position: fixed;
   top: 0;
