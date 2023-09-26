@@ -180,7 +180,6 @@ ul {
   z-index: 999; 
 }
 .navbar {
-  
   background-color: #176b63;
   position: fixed;
   top: 0;
@@ -195,4 +194,7 @@ ul {
 .submit-button {
   color: #ccc;
   background-color: #FFA500;
+}
+.form-style {
+  margin-top: 3rem;
 }
